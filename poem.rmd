@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Aylin Torres"
+author: "Aylin Torres MATH 116 "
 date: "september 12, 2024"
 output: html_document
 ---
